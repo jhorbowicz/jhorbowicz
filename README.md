@@ -6,8 +6,6 @@ Mostly:
 - Climate crisis 🔥🌎🔥
 - Political polarization.
 - Decreasing level of social empathy.
-- Decrease of quality of almost anything.
-- DevOps is not a role.
 - Living in Data (really, stop reading that list of complains and go get some good read from Jer Thorp -> [*"Living in Data"*](https://www.jerthorp.com/)).
 
 So kids, the lesson is, that overthinking rarely leads you to optimisitic conclusion. Hope it makes your life bit easier.
